@@ -1,11 +1,13 @@
 tagcloud
 ========
 
-PHP Tag Cloud composer package
-Implementation of http://lotsofcode.github.io/tag-cloud/
+This PHP Tag Cloud composer package is
+a Derivation of https://github.com/arogozin/tagcloud
+
+##### Many Thanks to its original developers.
 
 # PHP Tag Cloud
-## v4.0
+## v4.2
 
 #### Basic usage
 
