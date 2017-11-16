@@ -23,7 +23,6 @@
   ],
   "require": {
     "php": ">=5.6.0",
-    "arg/tagcloud": "master",
     "illuminate/support": "~5"
   },
   "autoload": {
