@@ -13,7 +13,7 @@ class Tagcloud extends Facade
     /**
      * Tag cloud version
      */
-    public $version = '4.0.0';
+    public $version = '4.1.0';
 
     /*
      * Tag array container

@@ -1,22 +1,35 @@
 {
-    "name": "arg/tagcloud",
-    "description": "PHP Tag Cloud composer package Derived from https://github.com/arogozin/tagcloud",
-    "license": "MIT",
-    "keywords": ["tag", "tag cloud", "keywords", "keyword cloud", "laravel"],
-    "authors": [
-        {
-            "name": "Kavish Patel",
-            "email": "kavish619@gmail.com"
-        }
-    ],
-    "require": {
-        "php": ">=5.6.0",
-        "illuminate/support": "~5"
-    },
-    "autoload": {
-        "psr-0": {
-            "Thekavish\\Tagcloud": "src/"
-        }
-    },
-    "minimum-stability": "dev"
+  "name": "thekavish/tagcloud",
+  "description": "PHP Tag Cloud composer package Derived from https://github.com/arogozin/tagcloud",
+  "license": "MIT",
+  "keywords": [
+    "tag",
+    "tag cloud",
+    "keywords",
+    "keyword cloud",
+    "laravel"
+  ],
+  "authors": [
+    {
+      "name": "Kavish Patel",
+      "email": "kavish619@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/thekavish/tagcloud"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "arg/tagcloud": "dev-master",
+    "illuminate/support": "~5"
+  },
+  "autoload": {
+    "psr-0": {
+      "Thekavish\\Tagcloud": "src/"
+    }
+  },
+  "minimum-stability": "dev"
 }
