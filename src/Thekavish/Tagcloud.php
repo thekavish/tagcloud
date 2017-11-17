@@ -1,6 +1,6 @@
 <?php
 
-namespace Thekavish\Tagcloud;
+namespace Thekavish;
 
 use Illuminate\Support\Facades\Facade;
 
@@ -14,7 +14,7 @@ class Tagcloud extends Facade
     /**
      * Tag cloud version
      */
-    public $version = '4.2.0';
+    public $version = '4.2.1';
 
     /*
      * Tag array container

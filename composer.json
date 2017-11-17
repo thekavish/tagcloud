@@ -27,8 +27,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Thekavish\\Tagcloud": "src/"
+      "Thekavish\\": "src/"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
