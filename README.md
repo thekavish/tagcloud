@@ -7,7 +7,7 @@ a Derivation of https://github.com/arogozin/tagcloud
 ##### Many Thanks to its original developers.
 
 # PHP Tag Cloud
-## v4.2
+## v5.0
 
 #### Basic usage
 
